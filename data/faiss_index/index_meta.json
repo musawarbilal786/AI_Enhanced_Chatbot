@@ -1,0 +1,6 @@
+{
+  "embedding_model": "text-embedding-3-small",
+  "dimension": 1536,
+  "chunk_count": 878,
+  "metric": "cosine_similarity_via_normalized_inner_product"
+}

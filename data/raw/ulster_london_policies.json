@@ -1,0 +1,65 @@
+[
+  {
+    "id": "qa-student-policies",
+    "title": "QA Higher Education / Ulster University Branch Campuses Student Policies",
+    "category": "branch-campus policies",
+    "campus_scope": "Ulster University London and Birmingham branch campuses",
+    "url": "https://qa.ulster.ac.uk/student-policies/",
+    "text": "The branch-campus student policies page brings together policies, standards and commitments for applicants and students studying through the partnership with QA Higher Education. It links to guidance on feedback, equality, diversity and inclusion, student support, fitness to study, freedom of speech, scholarships and bursaries, student discipline and code of conduct, international student and UKVI processes, Ulster University policies, terms and conditions, and previous programme regulations. Students should use the current published version relevant to their intake and circumstances and contact the branch-campus support team when individual guidance is required.",
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "uu-regulations",
+    "title": "Ulster University Ordinance and Regulations",
+    "category": "regulations",
+    "campus_scope": "Ulster University-wide",
+    "url": "https://www.ulster.ac.uk/about/ous/governance-and-policy/ordinance-and-regulations",
+    "text": "The Office of the University Secretary is responsible for ensuring that the University's Charter, Statutes, Ordinances and Regulations are followed and for introducing modifications when appropriate. The official page publishes downloadable current versions of the Charter, Statutes, Ordinances and Regulations. Users should consult the version currently published on the official page because these documents may be revised.",
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "uu-programme-regulations",
+    "title": "Programme Regulations and Learning Enhancement Policies",
+    "category": "programme regulations",
+    "campus_scope": "Ulster University taught programmes",
+    "url": "https://www.ulster.ac.uk/learningenhancement/ccea/regulations",
+    "text": "Ulster University's programme-regulations page explains the academic governance arrangements for taught programmes and provides links to Regulations for Undergraduate and Integrated Masters Programmes, Regulations for Postgraduate Taught Programmes, and Regulations for Short Cycle Qualifications. A standardised set of regulations for taught programmes became effective from the 2024/25 academic year. Where there is a discrepancy between an earlier programme specification and the current Regulations for Taught Programmes, the regulations take precedence unless an approved departure applies. Students should check their programme handbook and the current official regulations.",
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "uu-student-conduct",
+    "title": "Ulster University Student Conduct Information",
+    "category": "student conduct",
+    "campus_scope": "Ulster University students",
+    "url": "https://www.ulster.ac.uk/about/ous/student-conduct",
+    "text": "The Student Conduct Ordinance provides a framework for considering alleged student misconduct and aims to support a safe, inclusive and respectful university environment. Current students are subject to the ordinance from registration until they leave the University. It may cover behaviour on or off campus and behaviour through social media or other communications when the ordinance applies. Allegations are considered under the version in place when the alleged offence is notified. Individual cases are handled through the formal process; the chatbot must not decide whether misconduct occurred.",
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "uu-rights",
+    "title": "Student Rights, Obligations and Complaints",
+    "category": "rights and complaints",
+    "campus_scope": "Ulster University applicants and students",
+    "url": "https://www.ulster.ac.uk/study/your-rights-and-obligations",
+    "text": "Ulster University publishes key information on student rights and obligations, including links to the admissions policy, admissions complaints policy, ordinance and regulations, student complaints procedure, payment policy, liability policy, fees and funding, the student charter and the student guide. Students should familiarise themselves with applicable terms and conditions and use the official Student Complaints Procedure for formal complaints. Case-specific deadlines and eligibility must be checked in the current procedure or confirmed with staff.",
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "uu-policies",
+    "title": "Ulster University-wide Policies and Procedures",
+    "category": "policy directory",
+    "campus_scope": "Ulster University-wide",
+    "url": "https://www.ulster.ac.uk/about/ous/governance-and-policy/policies",
+    "text": "The University-wide policy directory organises policies and procedures by portfolio, including campus life, digital and information services, equality and inclusion, finance, global engagement, health and wellbeing, learning enhancement, the library, the Office of the University Secretary, research and innovation, student and graduate success, and student administration. The directory should be used to locate the latest official policy rather than relying on an older copied document.",
+    "last_verified": "2026-07-19"
+  },
+  {
+    "id": "uu-student-admin",
+    "title": "Student Administration Policies",
+    "category": "student administration",
+    "campus_scope": "Ulster University-wide",
+    "url": "https://www.ulster.ac.uk/about/ous/governance-and-policy/policies/student-administration-policies",
+    "text": "The Student Administration policy page lists official administrative policies, including the Admissions Policy and Deregistration Policy, with review information and responsible contacts where published. Students should consult the linked current policy for exact requirements and contact Student Administration for decisions about an individual record.",
+    "last_verified": "2026-07-19"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ulster-pg-prospectus-2025-26",
+    "filename": "prospectus_post_graduate.pdf",
+    "title": "Ulster University International Postgraduate Prospectus 2025/26",
+    "category": "Postgraduate prospectus",
+    "campus_scope": "Ulster University postgraduate applicants and students",
+    "academic_year": "2025/26",
+    "url": "",
+    "last_verified": "2026-07-19",
+    "provided_by": "User-uploaded project dataset"
+  },
+  {
+    "id": "ulster-ug-prospectus-2025-26",
+    "filename": "prospectus_under_graduate.pdf",
+    "title": "Ulster University Undergraduate Prospectus 2025/26",
+    "category": "Undergraduate prospectus",
+    "campus_scope": "Ulster University undergraduate applicants and students",
+    "academic_year": "2025/26",
+    "url": "",
+    "last_verified": "2026-07-19",
+    "provided_by": "User-uploaded project dataset"
+  },
+  {
+    "id": "ulster-rules-regulations",
+    "filename": "rules_and_regulations.pdf",
+    "title": "University of Ulster Regulations",
+    "category": "Rules and regulations",
+    "campus_scope": "University students, including applicable registered, affiliate and associate students",
+    "academic_year": "Not specified in document",
+    "url": "",
+    "last_verified": "2026-07-19",
+    "provided_by": "User-uploaded project dataset"
+  }
+]
